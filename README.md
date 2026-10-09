@@ -29,6 +29,8 @@ Project Files
 -  dashboard_screenshot.png  — dashboard preview
 ​
 -  dashboard_demo.mp4  — short video walkthrough
+- Hospital_Patient_Readmission_Analysis.pbix  _ Power BI dashboard file
+
  
  
 Shumaila Liaqat
